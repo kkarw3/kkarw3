@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 Hi, my name's Krrish and I'm currently a CS student at the University of Illinois Chicago. Right now, I'm looking to increase my knowledge of software development and cybersecurity.
 
+Languages: C, C++, Java, Python, F#, SQL, x86 assembly
+Tools: Visual Studio Code, IntelliJ Idea, Pycharm, CLion
+
 Social links:
 
 Email: kkarwal26@gmail.com
