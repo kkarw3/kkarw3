@@ -18,4 +18,5 @@ Hi, my name's Krrish and I'm currently a CS student at the University of Illinoi
 
 Social links:
 
+Email: kkarwal26@gmail.com
 LinkedIn: https://www.linkedin.com/in/krrish-karwal/
