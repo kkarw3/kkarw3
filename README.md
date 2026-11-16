@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi, my name's Krrish and I'm currently a CS student at the University of Illinois Chicago. Right now, I'm looking to increase my knowledge of software development and cybersecurity.
+
+Social links:
+
+LinkedIn: https://www.linkedin.com/in/krrish-karwal/
